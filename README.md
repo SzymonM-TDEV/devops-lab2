@@ -5,3 +5,5 @@
 •	Wykorzystane narzędzia: Git, GitHub, terminal
 •	Instrukcja uruchomienia/pracy: utworzenie nowego repo, wejscie w edycję gałęzi, dodanie wpisu do readme, commit zmian na main
 •	Autor: s142929
+Git — kontrola wersji
+GitHub — współpraca nad kodem
